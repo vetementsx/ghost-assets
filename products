@@ -4,5 +4,11 @@
     "image": "cs2",
     "till": "21 Jan 2024",
     "available": true
+  },
+  "Left 4 Dead 2": {
+    "description": "Status: Safe",
+    "image": "l4d2",
+    "till": "X",
+    "available": false
   }
 }
