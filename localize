@@ -1,0 +1,50 @@
+{
+  "ru": {
+    "hello": "Привет",
+    "loading": "Загрузка",
+    "startup": "Запуск",
+    "select_product": "Выбор продукта",
+    "preparing": "Подготовка",
+    "launch": "Запуск",
+    "cancel": "Отмена",
+    "till": "Подписка до",
+    "status.safe": "Статус: Безопасно",
+    "status.unsafe": "Статус: Небезопасно"
+  },
+  "ua": {
+    "hello": "Привiт",
+    "loading": "Завантаження",
+    "startup": "Запуск",
+    "select_product": "Вибір продукту",
+    "preparing": "Підготовка",
+    "launch": "Запуск",
+    "cancel": "Скасування",
+    "till": "Підписка до",
+    "status.safe": "Статус: Безпечно",
+    "status.unsafe": "Статус: Небезпечно"
+  },
+  "en": {
+    "hello": "Hello",
+    "loading": "Loading",
+    "startup": "Startup",
+    "select_product": "Select product",
+    "preparing": "Preparing",
+    "launch": "Launch",
+    "cancel": "Cancel",
+    "till": "Subscription till",
+    "status.safe": "Status: Safe",
+    "status.unsafe": "Status: Unsafe"
+  },
+  "chinese": {
+    "hello": "测试",
+    "loading": "加载中",
+    "startup": "启动",
+    "select_product": "选择产品",
+    "preparing": "启动中",
+    "launch": "启动",
+    "cancel": "取消预订",
+    "till": "订阅最高可达",
+    "status.safe": "状态： 安全",
+    "status.unsafe": "状态：不安全"
+  }
+}
