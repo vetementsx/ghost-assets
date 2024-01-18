@@ -6,9 +6,15 @@
     "available": true
   },
   "Left 4 Dead 2": {
-    "description": "Status: Safe",
+    "description": "Status: Unsafe",
     "image": "l4d2",
     "till": "X",
     "available": false
+  },
+  "Vimeworld": {
+    "description": "Status: Safe",
+    "image": "vime",
+    "till": "Lifetime",
+    "available": true
   }
 }
