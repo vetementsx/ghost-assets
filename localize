@@ -9,7 +9,8 @@
     "cancel": "Отмена",
     "till": "Подписка до",
     "status.safe": "Статус: Безопасно",
-    "status.unsafe": "Статус: Небезопасно"
+    "status.unsafe": "Статус: Небезопасно",
+    "info": "Инфо"
   },
   "ua": {
     "hello": "Привiт",
@@ -21,7 +22,8 @@
     "cancel": "Скасування",
     "till": "Підписка до",
     "status.safe": "Статус: Безпечно",
-    "status.unsafe": "Статус: Небезпечно"
+    "status.unsafe": "Статус: Небезпечно",
+    "info": "Інфо"
   },
   "en": {
     "hello": "Hello",
@@ -33,7 +35,8 @@
     "cancel": "Cancel",
     "till": "Subscription till",
     "status.safe": "Status: Safe",
-    "status.unsafe": "Status: Unsafe"
+    "status.unsafe": "Status: Unsafe",
+    "info": "Info"
   },
   "chinese": {
     "hello": "测试",
@@ -45,6 +48,7 @@
     "cancel": "取消预订",
     "till": "订阅最高可达",
     "status.safe": "状态： 安全",
-    "status.unsafe": "状态：不安全"
+    "status.unsafe": "状态：不安全",
+    "info": "信息"
   }
 }
