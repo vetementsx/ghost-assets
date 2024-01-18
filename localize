@@ -45,7 +45,7 @@
     "select_product": "选择产品",
     "preparing": "启动中",
     "launch": "启动",
-    "cancel": "取消预订",
+    "cancel": "取消",
     "till": "订阅最高可达",
     "status.safe": "状态： 安全",
     "status.unsafe": "状态：不安全",
